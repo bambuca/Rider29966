@@ -7,24 +7,20 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Rider29966
-{
-
-
-    public partial class Default
-    {
-
+namespace Rider29966 {
+    
+    
+    public partial class Default {
+        
         /// <summary>
         /// Master property.
         /// </summary>
         /// <remarks>
         /// Auto-generated property.
         /// </remarks>
-        public new Rider29966.Codes.MyMaster Master
-        {
-            get
-            {
-                return ((Rider29966.Codes.MyMaster)(base.Master));
+        public new Rider29966.Site Master {
+            get {
+                return ((Rider29966.Site)(base.Master));
             }
         }
     }
